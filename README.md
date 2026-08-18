@@ -108,9 +108,11 @@ I believe there's much more to life than code — and I'm always looking to grow
 
 <div align="center">
 
-![Emanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ManelGB\&show_icons=true\&hide_border=true\&theme=transparent)
+<img src="./profile/stats.svg" alt="Emanuel's GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ManelGB\&layout=compact\&hide_border=true\&theme=transparent)
+<br><br>
+
+<img src="./profile/top-langs.svg" alt="Top Languages" />
 
 </div>
 
