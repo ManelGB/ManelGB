@@ -104,17 +104,6 @@ I believe there's much more to life than code — and I'm always looking to grow
 
 ---
 
-## 🚀 GitHub Highlights
-
-<div align="center">
-
-<img height="180" src="./profile/top-langs.svg" alt="Most Used Languages" />
-<img height="180" src="./profile/featured-project.svg" alt="Featured Project" />
-
-</div>
-
----
-
 <div align="center">
 
 ### 🤝 Let's connect
