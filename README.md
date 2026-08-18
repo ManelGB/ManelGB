@@ -13,10 +13,8 @@
 ## 👨‍💻 About me
 
 ```diff
-+ I enjoy building things that actually solve problems.
-+ I'm always learning, experimenting and improving my code.
-+ Backend is where I feel at home, but I like understanding the whole product.
-! Currently exploring integrations, automation and artificial intelligence.
++ I'm a **Software Engineering student and Software Developer from Brazil 🇧🇷**, continuously improving my skills through real-world projects.
++ I enjoy understanding **how and why things work**, especially when a challenge involves connecting systems, designing backend logic and turning an idea into something people can actually use.
 ```
 
 I'm a **Software Engineering student and Software Developer from Brazil 🇧🇷** focused on continuously improving my skills through real-world projects.
@@ -33,7 +31,7 @@ My favorite challenges usually involve connecting different systems, designing b
 * ⚙️ **Backend Development**
 * 🤖 **Automation & AI**
 * 🌐 **Full Stack Applications**
-* 🧠 **Software Architecture & Problem Solving**
+* 🧠 **Software Design & Architecture**
 * 📚 **Continuous learning**
 
 ---
@@ -95,8 +93,8 @@ I particularly enjoy projects where I need to:
 When I'm not coding, you'll probably find me:
 
 - 🥋 Training **Jiu-Jitsu** 
-- 📚 Reading a good book (Nothing beats Narnina)
-- 🎮 Playing games and exploring new worlds (Or just losing another League game)
+- 📚 Reading a good book (Nothing beats Narnia)
+- 🎮 Playing games and exploring new worlds (or just losing another League game)
 - 🎸 Playing guitar (or trying)
 - ✝️ Knowing Him and making Him known
 
