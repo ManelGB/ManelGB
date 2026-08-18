@@ -90,24 +90,17 @@ I particularly enjoy projects where I need to:
 
 ---
 
-## 🧠 My mindset
+## 🌎 Beyond the code
 
-> I don't want to simply know how to write code.
-> I want to understand systems, solve real problems and become a better developer with every project.
+When I'm not coding, you'll probably find me:
 
-```javascript
-const emanuel = {
-  role: "Software Developer",
-  mindset: "Always learning",
-  interests: [
-    "Backend",
-    "Integrations",
-    "Automation",
-    "Artificial Intelligence"
-  ],
-  currentGoal: "Build better software every day 🚀"
-};
-```
+- 🥋 Training **Jiu-Jitsu** 
+- 📚 Reading a good book (Nothing beats Narnina)
+- 🎮 Playing games and exploring new worlds (Or just losing another League game)
+- 🎸 Playing guitar (or trying)
+- ✝️ Knowing Him and making Him known
+
+I believe there's much more to life than code — and I'm always looking to grow as a developer and as a person.
 
 ---
 
